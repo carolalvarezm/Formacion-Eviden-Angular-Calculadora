@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+}
+input[type="submit"]{
+    padding: 5px;
+    margin: 10px;
+    background-color: darkcyan;
+    color: white;
+}
+input{
+    margin: 1rem;
+}
